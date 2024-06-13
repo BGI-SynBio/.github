@@ -19,6 +19,6 @@ we developed the microchip-based Massive in Parallel Synthesis (mMPS) technology
     We aims to build artificial organism for protein function innovation via combination of "chassis" and "tools", 
 which requires the reprogramming the entire genome of target chassis cells, and developing translation tools with designed functions. 
 
-- **DNA data storage**
+- [**DNA data storage**](https://github.com/BGI-SynBio/.github/blob/main/profile/details/Section3.md)
 
     We have made significant progress in almost aspects of DNA data storage. 
