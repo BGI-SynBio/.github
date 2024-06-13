@@ -16,7 +16,7 @@ For DNA information reading, we are researching real-time base prediction and er
 
 
 <p align="center">
-<img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/storage-overview.png" alt="overview of DNA data storage" title="overview of DNA data storage" width="100%"/>
+<img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/storage-overview.png" alt="overview of DNA data storage" title="overview of DNA data storage" width="80%"/>
 </p>
 
 
