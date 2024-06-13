@@ -35,3 +35,7 @@ For DNA information reading, we are researching real-time base prediction and er
 - Need a basic software suite to construct and evaluate algorithms?
 
 	Click [[here](https://synbioj.cip.com.cn/article/2021/2096-8280/2096-8280-2021-2-3-412.shtml)] to read our *Synthetic Biology Journal* paper.
+
+- Want to learn the basics of DNA data storage?
+
+	Click [[here](https://academic.oup.com/gigascience/article/8/6/giz075/5521158)] to read our *GigaScience* paper.
