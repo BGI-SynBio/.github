@@ -30,5 +30,5 @@ life process regulation and other cutting-edge basic research and industrial app
     We has made significant progress in almost aspects of DNA data storage. 
 In terms of encoding, we are dedicated to developing efficient and stable encoding algorithms. 
 For decoding, we have developed graph theorye-based data recovery and error correction algorithms to address the inevitable experimental errors in DNA storage. 
-Regarding DNA information writing, we have developed an information writing method based on a standard reusable library. Inspired by the principles of movable type printing. 
+Regarding DNA information writing, we have developed an information writing method based on a standard reusable library, inspired by the principles of movable type printing. 
 For DNA information reading, we are researching real-time base prediction and error correction methods to enable instant data retrieval.
