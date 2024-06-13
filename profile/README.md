@@ -1,4 +1,4 @@
-With the enabling synbio technology innovations, 
+With the enabling SynBio technology innovations, 
 our team focus on the development of genome writing technology and applications. 
 By designing and constructing the genome of organisms from the scratch, 
 we explore the basic laws of life activities (creation to knowledge) and 
