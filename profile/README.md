@@ -27,11 +27,7 @@ life process regulation and other cutting-edge basic research and industrial app
 
 - **DNA data storage**
 
-    DNA molecules, as the carriers of genetic information for billions of years in living organisms, 
-are now also considered as a potential storage medium for digital information in the rapidly developing field of big data. 
-Typically, the process of DNA data storage involves 5-6 steps, with research on encoding and decoding methods leaning more towards information technology, 
-while the synthesis, sequencing, and manipulation of DNA require more biological technology research. 
-We has made significant progress in almost every step of the DNA storage process. 
+    We has made significant progress in almost aspects of DNA data storage. 
 In terms of encoding, we are dedicated to developing efficient and stable encoding algorithms. 
 For decoding, we have developed graph theorye-based data recovery and error correction algorithms to address the inevitable experimental errors in DNA storage. 
 Regarding DNA information writing, we have developed an information writing method based on a standard reusable library. Inspired by the principles of movable type printing. 
