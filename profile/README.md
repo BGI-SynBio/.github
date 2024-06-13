@@ -12,7 +12,7 @@ we developed the microchip-based Massive in Parallel Synthesis (mMPS) technology
 
 - **Synthetic yeast genome Sc2.0**
 
-    The Synthetic Yeast Genome Project (Sc2.0) is a global consortium working to develop the first synthetic eukaryote genome from scratch.
+    The Synthetic Yeast Genome Project is a global consortium working to develop the first synthetic eukaryote genome from scratch.
 
 - **Genetic codon expansion in eukaryotic system**
 
