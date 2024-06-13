@@ -14,6 +14,11 @@ to address the inevitable experimental errors in DNA storage. Regarding DNA info
 we have developed an information writing method based on a standard reusable library, inspired by the principles of movable type printing. 
 For DNA information reading, we are researching real-time base prediction and error correction methods to enable instant information retrieval.
 
-- How to improve robustness while ensuring high coding density? Click [[here](https://www.nature.com/articles/s43588-022-00231-2)] to read our *Nature Computational Science* paper.
-- Is it possible to implement anti-contamination and file version control functions? Click [[here](https://academic.oup.com/bib/article/25/3/bbae125/7636770)] to read our *Briefings in Bioinformatics* paper.
-- Seek a real-time data retrieval method that can improve speed by several orders of magnitude compared to conventional methods? Click [[here](https://arxiv.org/abs/2204.02855v3)] to read our *ArXiv* preprint.
+- How to improve robustness while ensuring high coding density? 
+	Click [[here](https://www.nature.com/articles/s43588-022-00231-2)] to read our *Nature Computational Science* paper.
+	
+- Is it possible to implement anti-contamination and file version control functions? 
+	Click [[here](https://academic.oup.com/bib/article/25/3/bbae125/7636770)] to read our *Briefings in Bioinformatics* paper.
+
+- Seek a real-time data retrieval method that can improve speed by several orders of magnitude compared to conventional methods? 
+	Click [[here](https://arxiv.org/abs/2204.02855v3)] to read our *ArXiv* preprint.
