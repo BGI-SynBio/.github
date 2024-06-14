@@ -1,41 +1,23 @@
-# DNA data storage
+# Genetic codon expansion in eukaryotic system
 
-DNA molecules, as the carriers of genetic information for billions of years in living organisms, 
-are now also considered as a potential storage medium for digital information in the rapidly developing field of big data. 
-Compared to conventional storage media such as optical discs, hard drives, and flash drives, 
-DNA molecules have a series of advantages including high information storage density, 
-low maintenance costs, long-term stability, and data security. 
-Typically, the process of DNA storage involves 5-6 steps, with research on encoding and decoding methods leaning more towards information technology, 
-while the synthesis, sequencing, and manipulation of DNA require more biological technology research. 
-We have made significant progress in almost every step of the DNA storage process. 
-In terms of encoding, we are dedicated to developing efficient and stable encoding algorithms. 
-For decoding, we have developed graph-based data recovery and error correction algorithms 
-to address the inevitable experimental errors in DNA storage. Regarding DNA information writing, 
-we have developed an information writing method based on a standard reusable library, inspired by the principles of movable type printing. 
-For DNA information reading, we are researching real-time base prediction and error correction methods to enable instant information retrieval.
+We aims to build synthetic organism for protein function innovation via combination of "chassis" and "tools", 
+which requires the reprogramming the entire genome of target chassis cells, 
+and developing translation tools with designed functions. 
+Our efforts will open the door to promising applications 
+such as the biosynthesis of unnatural polymers consisting of noncanonical amino acids (ncAAs), 
+biocontainment of genetically modified organisms 
+and the generation of virus-resistant cells used for producing therapeutic biologics.  
 
+- [[2022.04.25]](https://academic.oup.com/nar/article/50/8/4601/6572369) The tRNA discriminator base defines the mutual orthogonality of two distinct pyrrolysyl-tRNA synthetase/tRNA<sup>Pyl</sup> pairs in the same organism. *Nucleic Acids Research* [article]
 
-<p align="center">
-<img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/storage-overview.png" alt="overview of DNA data storage" title="overview of DNA data storage" width="80%"/>
-</p>
+- [[2022.06.15]](https://spj.science.org/doi/10.34133/2022/9896125) Improving the efficiency and orthogonality of genetic code expansion. *BioDesign Research* [review]
 
+- [[2022.10.03]](https://www.nature.com/articles/s41467-022-33606-0) Systematic dissection of key factors governing recombination outcomes by GCE-SCRaMbLE. *Nature Communications* [article]
 
-- How to improve robustness while ensuring high coding density using a coding scheme? 
+- [[2022.10.29]](https://www.sciencedirect.com/science/article/pii/S0021925822009644) Ancestral archaea expanded the genetic code with pyrrolysine. *Journal of Biological Chemistry* [article]
 
-	Click [[here](https://www.nature.com/articles/s43588-022-00231-2)] to read our *Nature Computational Science* paper.
-	
-- Is it possible to implement anti-contamination and file version control functions? 
+- [[2023.01.25]](https://journals.asm.org/doi/10.1128/jb.00385-22) Update of the Pyrrolysyl-tRNA Synthetase/tRNA<sup>Pyl</sup> pair and derivatives for genetic code expansion. *Journal of Bacteriology* [review]
 
-	Click [[here](https://academic.oup.com/bib/article/25/3/bbae125/7636770)] to read our *Briefings in Bioinformatics* paper.
+- [[2023.10.14]](https://www.nature.com/articles/s41467-023-42358-4) A robust yeast biocontainment system with two-layered regulation switch dependent on unnatural amino acid. *Nature Communications* [article]
 
-- Seek a real-time data retrieval method that can improve speed by several orders of magnitude compared to conventional methods? 
-
-	Click [[here](https://arxiv.org/abs/2204.02855v3)] to read our *ArXiv* preprint.
-
-- Need a basic software suite to construct and evaluate algorithms?
-
-	Click [[here](https://synbioj.cip.com.cn/article/2021/2096-8280/2096-8280-2021-2-3-412.shtml)] to read our *Synthetic Biology Journal* paper.
-
-- Want to learn the basics of DNA data storage?
-
-	Click [[here](https://academic.oup.com/gigascience/article/8/6/giz075/5521158)] to read our *GigaScience* paper.
+- [[2024.05.17]](https://pubs.acs.org/doi/10.1021/acssynbio.4c00006) Synthetic genomics: repurposing biological systems for applications in engineering biology. *ACS Synthetic Biology* [review]
