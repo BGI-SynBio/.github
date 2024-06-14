@@ -5,6 +5,10 @@ we explore the basic laws of life activities (creation to knowledge) and
 apply artificial organisms as chassis cells in the fields of bio-manufacturing, disease treatment, Bioinformatics algorithms, DNA data storage, etc, 
 leading a new paradigm for synthetic biology research and industry.
 
+<p align="center">
+<img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/overview.png" alt="overview of the team" title="overview of the team" width="100%"/>
+</p>
+
 - **mMPS** (**m**icrochip-based **M**assive in **P**arallel DNA **S**ynthesis) **Technology**
 
     To reduce the cost, increase the throughput, and ensure the fidelity of synthetic DNA,
