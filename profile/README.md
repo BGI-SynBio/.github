@@ -24,4 +24,4 @@ leading a new paradigm for synthetic biology research and industry.
 
 - [**DNA-based data storage**](https://github.com/BGI-SynBio/.github/blob/main/profile/details/Section4.md)
 
-    We have made significant progress in almost aspects of DNA-based data storage. 
+    Using the instruments and tools we have developed, we try to advance the field of information technology.
