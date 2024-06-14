@@ -9,7 +9,7 @@ leading a new paradigm for synthetic biology research and industry.
     <img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/overview.png" alt="overview of the team" title="overview of the team" width="100%"/>
 </p>
 
-- [**mMPS** (**m**icrochip-based **M**assive in **P**arallel DNA **S**ynthesis) **Technology**](https://github.com/BGI-SynBio/.github/blob/main/profile/details/Section1.md)
+- [**mMPS (microchip-based Massive in Parallel DNA Synthesis) Technology**](https://github.com/BGI-SynBio/.github/blob/main/profile/details/Section1.md)
 
     To reduce the cost, increase the throughput, and ensure the fidelity of synthetic DNA,
 we developed the microchip-based Massive in Parallel Synthesis (mMPS) technology.
