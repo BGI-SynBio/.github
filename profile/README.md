@@ -6,7 +6,7 @@ apply artificial organisms as chassis cells in the fields of bio-manufacturing, 
 leading a new paradigm for synthetic biology research and industry.
 
 <p align="center">
-    <img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/overview.png" alt="overview of the team" title="overview of the team" width="90%"/>
+    <img src="https://github.com/BGI-SynBio/.github/blob/main/profile/figures/overview.png" alt="overview of the team" title="overview of the team" width="94%"/>
 </p>
 
 - [**mMPS (microchip-based Massive in Parallel DNA Synthesis) Technology**](https://github.com/BGI-SynBio/.github/blob/main/profile/details/Section1.md)
